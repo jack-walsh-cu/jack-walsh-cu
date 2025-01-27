@@ -14,6 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jack-walsh-cu&show_icons=true&theme=dark&locale=en&layout=compact" alt="jack-walsh-cu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jack-walsh-cu&show_icons=true&theme=dark&locale=en" alt="jack-walsh-cu" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jack-walsh-cu&theme=dark" alt="jack-walsh-cu" /></p>
